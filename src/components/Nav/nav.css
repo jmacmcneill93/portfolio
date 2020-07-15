@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+.logo{
+    font-family: cursive;
+}
+#navbar {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+    background: black;
+    color: white;
+    overflow: auto;
+}
+
+#navbar a {
+    color: white;
+}
+
+#navbar h1{
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+
+
+}
+
+#navbar ul {
+    list-style: none;
+    float: right;
+}
+
+#navbar ul li {
+    float: left;
+}
+
+#navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+#navbar ul li a:hover,
+#navbar ul li a.current{
+    background: white;
+    color: black;
+    text-decoration: underline;
+    transition: .6s ease-in-out;
+}
+
+a {
+    color: #333;
+text-decoration: none;
+}

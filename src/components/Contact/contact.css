@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+}
+
+.contactForm{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 650px;
+    width: 900px;
+    background: black;
+    color: white;
+    opacity: .8;
+    border-radius: 15px;
+    box-shadow: 10px 10px 35px;
+}
+.contactForm .form {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.formGroup {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contactForm label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contactForm input, .contactForm textarea {
+    width: 90%;
+    padding: 10px;
+    border: 1px #ddd solid;
+}
+
+.submitButton {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 35px;
+
+}
+
+.submitButton:hover {
+    transition: .4s ease-in-out;
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+    border: 1px solid white;
+}

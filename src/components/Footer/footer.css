@@ -1,0 +1,39 @@
+html,body {
+    position:relative;
+    margin:0;
+    padding:0;
+    overflow:auto;
+}
+.main-footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    background: black;
+    color: #fff;
+    padding: 20px;
+    position: sticky;
+}
+
+.socialIcons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.linkedin {
+    margin-right: 5px;
+}
+
+.github {
+    margin-right: 5px;
+}
+
+.linkedin:hover {
+    opacity: .9;
+}
+.github:hover {
+    opacity: .9;
+
+}

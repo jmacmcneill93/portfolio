@@ -1,0 +1,72 @@
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.landing-grid {
+    background: #833ab4;
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+    text-align: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.portfolioImage {
+    border-radius: 60%;
+    width: 250px;
+    height: 350px;
+}
+
+.aboutInfo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: black;
+    opacity: .8;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.contactBoxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.contactInfo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: black;
+    opacity: .8;
+    width: 45%;
+    border-radius: 10px;
+}
+
+.spanText {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contactResume {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: black;
+    opacity: .8;
+    width: 45%;
+    border-radius: 10px;
+}
+
+.socialIcons {
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.linkedin:hover {
+    opacity: .9;
+}
+
+
