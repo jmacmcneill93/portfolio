@@ -18,7 +18,7 @@ class About extends React.Component {
                         <hr />
                         <p className="aboutText">HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | MySQL</p>
                         <hr />
-                        <p className="aboutText">Hey my name is Josh McNeill and I am a North Carolina based web developer who loves to create beautiful and clean web applications.</p>
+                        <p className="aboutText">Hey my name is Josh McNeill and I am a North Carolina based web developer who loves to create beautiful and clean web applications. It is a true passion of mine to be able to take a webpage, apply my creativity to it and turn it into something great.   </p>
                     </div>
                     <div className="contactBoxes">
                         <div className="contactInfo">

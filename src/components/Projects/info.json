@@ -5,7 +5,7 @@
         "languages": "HTML/CSS",
         "netlify": "https://distracted-neumann-3995e0.netlify.app",
         "github": "https://github.com/jmacmcneill93/Gateway-Project",
-        "description": "This application is a simple tourist website for Cancún, Mexico that solely incorporates HTML and CSS. Please click below to view the live version of the application."
+        "description": "This application is a simple tourist website for Cancún, Mexico that solely incorporates HTML and CSS. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/Hotel.png",
@@ -13,7 +13,7 @@
         "languages": "HTML/CSS",
         "netlify": "https://goofy-bohr-a5fd56.netlify.app",
         "github": "https://github.com/jmacmcneill93/Hotel.JM",
-        "description": "Hotel.JM is a hotel application built for Uptown Charlotte area. It consists of solely HTML and CSS. Please click below to view the live version of the application."
+        "description": "Hotel.JM is a hotel application built for Uptown Charlotte area. It consists of solely HTML and CSS. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/ticTacToe.png",
@@ -21,14 +21,14 @@
         "languages": "HTML/CSS, ReactJS",
         "netlify": "https://zen-darwin-493ed1.netlify.app",
         "github": "https://github.com/jmacmcneill93/tic_tac_toe_challenge",
-        "description": "This is a ReactJS built application that is a 'Tic Tac Toe' game. You can play it with a friend or by yourself. Please click below to view the live version of the application. "
+        "description": "This is a ReactJS built application that is a 'Tic Tac Toe' game. You can play it with a friend or by yourself. Please click below to view the live version or the github repository of the application. "
     },
     {
         "img": "../images/pokemonNode.png",
         "title": "Pokemon Terminal Game",
         "languages": "HTML/CSS, NodeJS",
         "github": "https://github.com/jmacmcneill93/Pokemon-node-game",
-        "description": "This is a game built using NodeJS, to start cd into 'pokemon-game' in your terminal and enter 'node script.js' to begin. You can create an trainer account and select a pokemon. Please click below to view the live version of the application."
+        "description": "This is a game built using NodeJS, to start cd into 'pokemon-game' in your terminal and enter 'node script.js' to begin. You can create an trainer account and select a pokemon. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/voiceAppGame.png",
@@ -36,7 +36,7 @@
         "languages": "HTML/CSS and JavaScript",
         "netlify": "https://clever-kirch-11f72a.netlify.app",
         "github": "https://github.com/jmacmcneill93/voice-app",
-        "description": "This is a number guessing game created using ReactJS. You vocally enter a number and it will tell you whether that number is correct or if it is higher/lower. Please click below to view the live version of the application."
+        "description": "This is a number guessing game created using ReactJS. You vocally enter a number and it will tell you whether that number is correct or if it is higher/lower. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/navbar.png",
@@ -44,7 +44,7 @@
         "languages": "HTML/CSS and JavaScript",
         "netlify": "https://optimistic-shaw-0e6b88.netlify.app",
         "github": "https://github.com/jmacmcneill93/Animated_NavBar",
-        "description": "This is an animated navigation bar that when you click it creates navigation menu to pop up on the right side of the application as the hamburger menu lines change. Please click below to view the live version of the application."
+        "description": "This is an animated navigation bar that when you click it creates navigation menu to pop up on the right side of the application as the hamburger menu lines change. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/RoadToHireApp.png",
@@ -52,7 +52,7 @@
         "languages": "HTML/CSS, ReactJS",
         "netlify": "https://confident-booth-695edc.netlify.app",
         "github": "https://github.com/jmacmcneill93/to-do-list",
-        "description": "This is a simple to do list created using ReactJS. Type in a job, objective or goal and press 'enter' and it will create a bulleted list of objectives you entered. Please click below to view the live version of the application."
+        "description": "This is a simple to do list created using ReactJS. Type in a job, objective or goal and press 'enter' and it will create a bulleted list of objectives you entered. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/gitHubCards.png",
@@ -60,14 +60,14 @@
         "languages": "HTML/CSS",
         "netlify": "https://admiring-aryabhata-0098f4.netlify.app",
         "github": "https://github.com/jmacmcneill93/github-cards",
-        "description": "This application was created with ReactJS and allows you to type in any Github username and add there card username to the application. Please click below to view the live version of the application."
+        "description": "This application was created with ReactJS and allows you to type in any Github username and add there card username to the application. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/weatherApp.png",
         "title": "Node Weather Application",
         "languages": "NodeJS",
         "github": "https://github.com/jmacmcneill93/node_weather_app",
-        "description": "Please click below to view the live version of the application."
+        "description": "Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/sneakerHeadReact.png",
@@ -75,7 +75,7 @@
         "languages": "HTML/CSS and ReactJS",
         "netlify": "https://unruffled-hawking-356b8f.netlify.app",
         "github": "https://github.com/jmacmcneill93/updated-React-ecommerce",
-        "description": "This application is an online retail site that sells shoes and accessories to sneaker connoisseur's and people who are very into shoe fashion. Please click below to view the live version of the application."
+        "description": "This application is an online retail site that sells shoes and accessories to sneaker connoisseur's and people who are very into shoe fashion. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/uHost.png",
@@ -83,6 +83,6 @@
         "languages": "HTML/CSS and JavaScript",
         "netlify": "https://suspicious-almeida-5e0952.netlify.app",
         "github": "https://github.com/jmacmcneill93/udemyPractice",
-        "description": "This application is an online hosting website that sells their services and technologies. Please click below to view the live version of the application."
+        "description": "This application is an online hosting website that sells their services and technologies. Please click below to view the live version or the github repository of the application."
     }
 ]

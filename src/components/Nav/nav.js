@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, NavLink } from 'react-router-dom';
 import './nav.css'
-import Resume from '../Resume/Resume (2).pdf';
+import Resume from '../Resume/portfolioResume.pdf';
 
 
 
