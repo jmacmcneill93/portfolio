@@ -6,7 +6,12 @@ class About extends React.Component {
     render() {
         return (
             <div>
+                    <img src="../images/charlotte.png"
+                    alt="Charlotte"
+                    className="portfolioBackground"
+                    />
                 <div className="landing-grid">
+                
                     <img
                         src="../images/josh_mcneill.jpg"
                         alt="Josh McNeill"

@@ -63,7 +63,7 @@
         "description": "This application was created with ReactJS and allows you to type in any Github username and add there card username to the application. Please click below to view the live version of the application."
     },
     {
-        "img": "",
+        "img": "../images/weatherApp.png",
         "title": "Node Weather Application",
         "languages": "NodeJS",
         "github": "https://github.com/jmacmcneill93/node_weather_app",

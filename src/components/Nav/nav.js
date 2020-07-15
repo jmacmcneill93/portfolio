@@ -11,8 +11,8 @@ class Nav extends React.Component {
         return (
             <div className="App">
                 <nav id="navbar">
-                    <div class="container">
-                        <h1 class="logo">Joshua Alexander McNeill</h1>
+                    <div className="container">
+                        <h1 className="logo">Joshua Alexander McNeill</h1>
                         <ul>
                             <li>
                                 <NavLink to="/" exact>About</NavLink>
