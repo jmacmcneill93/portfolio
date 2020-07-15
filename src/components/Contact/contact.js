@@ -103,33 +103,33 @@ class ValidationForm extends React.Component {
 
                     <label htmlFor="fname">First Name</label>
                     <input type="text" id="fname" name="fname" value={this.state.fname} onChange={this.handleChange} placeholder="Your name.." />
-                    <div style={{ fontSize: 12, color: "white" }}>
+                    <div style={{ fontSize: 15, color: "red" }}>
                         {this.state.errorfname}
                     </div>
 
                     <label for="lname">Last Name</label>
                     <input type="text" id="lname" name="lname" value={this.state.lname} onChange={this.handleChange} placeholder="Your last name.." />
-                    <div style={{ fontSize: 12, color: "white" }}>
+                    <div style={{ fontSize: 15, color: "red" }}>
                         {this.state.errorlname}
                     </div>
 
                     <label for="pnumber">Phone Number</label>
                     <input type="text" id="pnumber" name="pnumber" value={this.state.pnumber} onChange={this.handleChange} placeholder="Your phone number.." />
-                    <div style={{ fontSize: 12, color: "white" }}>
+                    <div style={{ fontSize: 15, color: "red" }}>
                         {this.state.errorpnumber}
                     </div>
 
 
                     <label for="email">E-mail</label>
                     <input type="text" id="email" name="email" value={this.state.email} onChange={this.handleChange} placeholder="Your E-mail.." />
-                    <div style={{ fontSize: 12, color: "white" }}>
+                    <div style={{ fontSize: 15, color: "red" }}>
                         {this.state.erroremail}
                     </div>
 
 
                     <label for="subject">Message Me</label>
                     <textarea id="subject" name="subject" value={this.state.subject} onChange={this.handleChange} placeholder="Write message.." style={{ height: '200px' }}></textarea>
-                    <div style={{ fontSize: 12, color: "white" }}>
+                    <div style={{ fontSize: 15, color: "red" }}>
                         {this.state.errorsubject}
                     </div>
 

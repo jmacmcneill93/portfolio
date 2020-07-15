@@ -16,6 +16,7 @@
 }
 
 .card {
+  border-radius: 10px;
   background: white;
   display: flex;
   flex-direction: column;
@@ -61,6 +62,7 @@
 }
 
 .webSiteImg {
+  border-radius: 15px;
   padding-top: 5px;
   padding-left: 5px;
   height: 250px;
@@ -79,6 +81,7 @@
 }
 
 .itemDescription {
+  padding-top: 10px;
   padding: 5px;
   font-size: 18px;
 }
@@ -90,6 +93,7 @@
 }
 
 .btnNetlify {
+  border-radius: 5px;
   padding: 5px;
   background: black;
   width: 150px;
@@ -106,7 +110,7 @@
 .btnNetlifyText {
   background: black;
   color: white;
-  font-family: cursive;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 18px;
   font-weight: bold;
 }
@@ -117,9 +121,10 @@
   width: 150px;
   background: black;
   color: white;
-  font-family: cursive;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: bold;
   text-decoration: none;
+  border-radius: 5px;
 }
 
 .btnGithub:hover {

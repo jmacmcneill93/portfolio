@@ -11,8 +11,8 @@ body{
     flex-direction: column;
     flex-wrap: wrap;
     padding-top: 10px;
-    padding-left: 10px;
-    height: 650px;
+    padding-left: 75px;
+    height: 750px;
     width: 900px;
     background: black;
     color: white;
@@ -21,6 +21,7 @@ body{
     box-shadow: 10px 10px 35px;
 }
 .contactForm .form {
+    border-radius: 5px;
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -34,12 +35,14 @@ body{
 .contactForm label {
     display: block;
     margin-bottom: 5px;
+    padding: 5px;
 }
 
 .contactForm input, .contactForm textarea {
     width: 90%;
     padding: 10px;
     border: 1px #ddd solid;
+    border-radius: 10px;
 }
 
 .submitButton {
@@ -50,6 +53,8 @@ body{
     background-color: white;
     width: 200px;
     height: 35px;
+    border-radius: 10px;
+    margin-top: 10px;
 
 }
 
@@ -59,4 +64,5 @@ body{
     background-color: black;
     text-decoration: underline;
     border: 1px solid white;
+    cursor: pointer;
 }
