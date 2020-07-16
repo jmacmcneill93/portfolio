@@ -1,6 +1,7 @@
 import React from 'react'
 import './about.css';
 import { SocialMediaIconsReact } from 'social-media-icons-react';
+import Resume from '../Resume/portfolioResume.pdf';
 
 class About extends React.Component {
     render() {
@@ -34,6 +35,9 @@ class About extends React.Component {
                         <div className="contactResume">
                             <h2>Check Out My Resume!</h2>
                             <hr />
+                            <p>Click Below to view or download!</p>
+                            <a classsName="resumeImg" href={Resume} target="_blank" rel="noopener noreferrer"><img  src="./images/resumeImg.png" /></a>
+                           
                         </div>
 
                     </div>

@@ -31,10 +31,12 @@
 #navbar ul {
     list-style: none;
     float: right;
+    margin-right: 30px;
 }
 
 #navbar ul li {
     float: left;
+    
 }
 
 #navbar ul li a {
@@ -53,5 +55,6 @@
 
 a {
     color: #333;
-text-decoration: none;
+    text-decoration: none;
+
 }
