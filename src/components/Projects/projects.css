@@ -140,3 +140,13 @@
   color: white;
   font-size: 18px;
 }
+
+@media (max-width: 400px) {
+  .webSiteImg {
+    width: 300px;
+  }
+
+  .btns {
+    padding-right: 45px;
+  }
+}

@@ -99,4 +99,24 @@ html {
     opacity: .9;
 }
 
+@media (max-width: 400px) {
+    .aboutInfo {
+        width: 350px;
+    }
+
+    .contactBoxes {
+        flex-direction: column;
+    }
+
+    .contactInfo {
+        width: 350px;
+        margin-bottom: 50px;
+        margin-left: 5px;
+    }
+
+    .contactResume {
+        width: 350px;
+        margin-left: 5px;
+    }
+}
 

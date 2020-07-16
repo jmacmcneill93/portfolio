@@ -9,3 +9,15 @@
     box-shadow: 10px 10px 25px;
     border-radius: 20px;
 }
+
+@media (max-width: 800px) {
+    .resumePageImg {
+        width: 750px;
+    }
+}
+@media (max-width: 400px) {
+    .resumePageImg {
+        width: 350px;
+        height: 400px;
+    }
+}
