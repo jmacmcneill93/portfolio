@@ -1,7 +1,6 @@
 import React from 'react';
 import info from './info.json';
 import Background from './projectBackGround';
-
 import './projects.css';
 
 class Projects extends React.Component {

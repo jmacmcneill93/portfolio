@@ -28,7 +28,7 @@
         "title": "Pokemon Terminal Game",
         "languages": "HTML/CSS, NodeJS",
         "github": "https://github.com/jmacmcneill93/Pokemon-node-game",
-        "description": "This is a game built using NodeJS, to start cd into 'pokemon-game' in your terminal and enter 'node script.js' to begin. You can create an trainer account and select a pokemon. Please click below to view the live version or the github repository of the application."
+        "description": "This is a game built using NodeJS, to start cd into 'pokemon-game' in your terminal and enter 'node script.js' to begin. You can create a trainer account and select a pokemon. Please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/voiceAppGame.png",

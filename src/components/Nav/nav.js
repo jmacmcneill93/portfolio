@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, NavLink } from 'react-router-dom';
 import './nav.css'
-import Resume from '../Resume/portfolioResume.pdf';
 
 
 
@@ -21,7 +20,7 @@ class Nav extends React.Component {
                                 <NavLink to="/Projects">Projects</NavLink>
                             </li>
                             <li>
-                                <a href={Resume} target="_blank" rel="noopener noreferrer">Resume</a>
+                                <NavLink to="/Resume">Resume</NavLink>
                             </li>
                             <li>
                                 <NavLink to ="/Contact">Contact Me</NavLink>
