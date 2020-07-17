@@ -25,7 +25,7 @@ class About extends React.Component {
                         <div className="contactInfo">
                             <h2 className="contactHead">Contact Information</h2>
                             <hr />
-                            <p className="contactText"><span className="spanText">Phone</span> : 704-995-1377</p>
+                            {/* <p className="contactText"><span className="spanText">Phone</span> : 704-995-1377</p> */}
                             <p className="contactText"><span className="spanText">Email</span> : joshmcneill1993@gmail.com</p>
                             <div className="socialIcons">
                                 <SocialMediaIconsReact icon="github" url="https://github.com/jmacmcneill93" className="github" target="blank" rel="no-opener" iconColor="white" backgroundColor="black" iconSize="5" roundness="20%" borderColor="white" borderWidth="1" borderStyle="solid">Github</SocialMediaIconsReact>
@@ -35,8 +35,8 @@ class About extends React.Component {
                         <div className="contactResume">
                             <h2 className="contactHead">Check Out My Resume!</h2>
                             <hr />
-                            <p className="resumeText">Click Below to view or download!</p>
-                            <a href={ResumeLink} target="_blank" rel="noopener noreferrer"><FaFile style={{ marginTop: '20px', textDecoration: 'none', color: 'white', height: '30px', width: '35px', }} /></a>
+                            <p className="resumeText">Click below to view or download!</p>
+                            <a href={ResumeLink} target="_blank" rel="noopener noreferrer"><FaFile style={{textDecoration: 'none', color: 'white', height: '32px', width: '35px', }} /></a>
                         </div>
                     </div>
                 </div>
