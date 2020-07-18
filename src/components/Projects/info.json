@@ -67,7 +67,7 @@
         "title": "Node Weather Application",
         "languages": "NodeJS",
         "github": "https://github.com/jmacmcneill93/node_weather_app",
-        "description": "Please click below to view the live version or the github repository of the application."
+        "description": "This is a Weather Application allowing you to type in any location and recieve the weather data. please click below to view the live version or the github repository of the application."
     },
     {
         "img": "../images/sneakerHeadReact.png",
