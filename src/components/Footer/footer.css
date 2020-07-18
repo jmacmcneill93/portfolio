@@ -1,9 +1,21 @@
+* {
+    box-sizing: border-box;
+   }
+   *:before,
+   *:after {
+    box-sizing: border-box;
+   }
+
 html,body {
     position:relative;
-    margin:0;
-    padding:0;
-    overflow:auto;
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+    margin: 0;
+    padding: 0;
+    overflow: auto;
 }
+
 .main-footer {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flex;
@@ -13,7 +25,10 @@ html,body {
     background: black;
     color: #fff;
     padding: 20px;
-    position: relative;
+    position: absolute;
+    width: 100%;
+    margin-bottom: -50;
+    overflow: hidden;
 }
 
 .socialIcons {
