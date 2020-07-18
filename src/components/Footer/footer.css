@@ -13,7 +13,7 @@ html,body {
     background: black;
     color: #fff;
     padding: 20px;
-    position: sticky;
+    position: relative;
 }
 
 .socialIcons {
