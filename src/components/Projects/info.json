@@ -18,7 +18,7 @@
     {
         "img": "../images/ticTacToe.png",
         "title": "Tic Tac Toe Application",
-        "languages": "HTML/CSS, ReactJS",
+        "languages": "HTML/CSS and ReactJS",
         "netlify": "https://zen-darwin-493ed1.netlify.app",
         "github": "https://github.com/jmacmcneill93/tic_tac_toe_challenge",
         "description": "This is a ReactJS built application that is a 'Tic Tac Toe' game. You can play it with a friend or by yourself. Please click below to view the live version or the github repository of the application. "
@@ -26,7 +26,7 @@
     {
         "img": "../images/pokemonNode.png",
         "title": "Pokemon Terminal Game",
-        "languages": "HTML/CSS, NodeJS",
+        "languages": "HTML/CSS and NodeJS",
         "github": "https://github.com/jmacmcneill93/Pokemon-node-game",
         "description": "This is a game built using NodeJS, to start cd into 'pokemon-game' in your terminal and enter 'node script.js' to begin. You can create a trainer account and select a pokemon. Please click below to view the live version or the github repository of the application."
     },
@@ -49,7 +49,7 @@
     {
         "img": "../images/RoadToHireApp.png",
         "title": "React To Do List",
-        "languages": "HTML/CSS, ReactJS",
+        "languages": "HTML/CSS and ReactJS",
         "netlify": "https://confident-booth-695edc.netlify.app",
         "github": "https://github.com/jmacmcneill93/to-do-list",
         "description": "This is a simple to do list created using ReactJS. Type in a job, objective or goal and press 'enter' and it will create a bulleted list of objectives you entered. Please click below to view the live version or the github repository of the application."
@@ -57,7 +57,7 @@
     {
         "img": "../images/gitHubCards.png",
         "title": "Github Cards Application",
-        "languages": "HTML/CSS",
+        "languages": "HTML/CSS and ReactJS",
         "netlify": "https://admiring-aryabhata-0098f4.netlify.app",
         "github": "https://github.com/jmacmcneill93/github-cards",
         "description": "This application was created with ReactJS and allows you to type in any Github username and add there card username to the application. Please click below to view the live version or the github repository of the application."
